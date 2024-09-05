@@ -522,6 +522,10 @@ footer {
     background: var(--white);
   }
 
+  .t-image{
+    display: none;
+  }
+
   .hero-section {
     display: flex;
     gap: 2.25rem;
