@@ -465,6 +465,10 @@ footer {
     font: 900 3.125rem/3.25rem 'Big Shoulders Display', sans-serif;
   }
 
+  .t-image{
+    display: none;
+  }
+
   .body-m {
     font: 300 1rem/1.75rem 'Outfit', sans-serif;
     color: var(--gray);
